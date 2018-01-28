@@ -1,0 +1,24 @@
+{
+  "name": "snax",
+  "version": "1.0.0",
+  "description": "SnaxTrax Application for keeping track of your pet's food",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/kwang1092/SnaxTrax.git"
+  },
+  "author": "Kevin Wang",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/kwang1092/SnaxTrax/issues"
+  },
+  "homepage": "https://github.com/kwang1092/SnaxTrax#readme",
+  "dependencies": {
+    "alexa-sdk": "^1.0.25",
+    "aws-sdk": "^2.188.0",
+    "es6-promisify": "^5.0.0"
+  }
+}
